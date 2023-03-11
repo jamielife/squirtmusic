@@ -10,3 +10,31 @@ body{
 }
 
 a:visited{color: white;}
+
+.black{
+    color: #0e0e0e;
+}
+
+.gray{
+    color: gray;
+}
+
+.active{
+    border-bottom: 3px solid red;
+}
+
+.text-center{
+    text-align: center;
+} 
+
+.text-right{
+    text-align: right;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.center{
+    margin: 0 auto;
+}
