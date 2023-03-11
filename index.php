@@ -46,7 +46,6 @@
 				</font>		
 			</div>
 			
-
 			<div id="Layer5" style="position:absolute; left:200px; top:210px; width:310px; height:85px; z-index:5">
 				<font face="Arial" size="2">		
 					The band consist of 4 guys: <br />
@@ -62,7 +61,7 @@
 
 		</div>
 		
-		<footer class="text-center" style="position: absolute; top: 400px; display: block; width: 100%" >
+		<footer class="text-center" style="position: absolute; top: 420px; display: block; width: 100%" >
 			<hr color="#424242" />
 			<p class="text-center standard gray" >&copy; 2000-2023 Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com" target="_blank">Htmyell Design & Development</a></p>
 		</footer>			
