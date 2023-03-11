@@ -36,27 +36,21 @@
 								<!-- onclick="alert(&#39;This was a cassette, if you know what that is. It has been lost to time.&#39;);" -->
 								<img class="disc" src="/images/disco-we-suck-but-you-only-paid-a-dollar.jpg" alt="we suck, but hey you only paid a dollar demo" border="0">
 								<br>
-								<span class="small">>We Suck But...</span>
-								<br>
-								<span class="small">Demo</span>
+								<span class="small">>We Suck But...</span> - <span class="small">Demo</span>
 							</a> 
 						</td>
 						<td align="center">
 							<a href="https://open.spotify.com/album/7CNJ7sQc2f3k9WvS3Rx7mH" title="Dorky Kids" target="_blank">
 								<img class="disc" src="/images/disco-dorky-kids.jpg" alt="dorky kids EP" border="0">
 								<br>
-								<span class="small">Dorky Kids</span>
-								<br>
-								<span class="small">EP</span>
+								<span class="small">Dorky Kids</span> - <span class="small">EP</span>
 							</a>
 						</td>
 						<td align="center">
 							<a href="https://open.spotify.com/album/6ZsEY7hIq4av7P5MzHnXv6" title="Headache &amp; Heartache" target="_blank">
 								<img class="disc" src="/images/disco-headache-heartache.jpg" alt="headache and hearth album" border="0">
 								<br>
-								<em class="small">New! Headache &amp; Heartache</em>
-								<br>
-								<span class="small">Album</span>
+								<em class="small">New! Headache &amp; Heartache</em> - <span class="small">Album</span>
 							</a> 
 						</td>
 					</tr>

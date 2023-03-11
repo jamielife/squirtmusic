@@ -44,6 +44,8 @@ a:hover{ text-decoration: underline; }
     height: 255px;
 }
 
+.small{ font-size: 14px; }
+
 #newsletter input{ width: 188px; }
 
 #guestbook table { border-bottom: 2px solid #42428C; padding-bottom: 5px; margin-bottom: 5px; width: 100%;  }
