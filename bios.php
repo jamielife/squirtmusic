@@ -1,7 +1,6 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		
 		<title>Bios | Official Squirt Site!</title>
 		
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
@@ -12,24 +11,26 @@
 		<meta property="og:description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000.">
 		<meta property="og:image:type" content="image/jpeg">
 		<meta property="og:image" content="/images/squirt-group.jpg">
-		<meta property="og:url" content="">		<meta name="Description" content="Biographies for each band member in Squirt, painstakingly written circa the year 2000.">		
+		<meta property="og:url" content="">		
+		<meta name="Description" content="Biographies for each band member in Squirt, painstakingly written circa the year 2000.">		
+	</head>
 	
-	
+	<body>
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-	
+		<div id="primary-navigation" class="text-right">
+			<a class="" href="/shows.php">Shows</a> 
+			<a class="active" href="/bios.php">Bios</a> 
+			<a class="" href="/news.php">News</a> 
+			<a class="" href="/guestbook.php">Guestbook</a> 
+			<a class="" href="/discography.php">Discography</a> 
+			<a class="" href="/faqs.php">FAQs</a> 
+			<a class="" href="/contact.php">Contact</a> 
+		</div>	
 
-<div id="primary-navigation" class="text-right">
-	<a class="" href="/shows.php">Shows</a> 
-	<a class="active" href="/bios.php"><b style="color:#000;background:#ffff66">Bios</b></a> 
-	<a class="" href="/news.php">News</a> 
-	<a class="" href="/guestbook.php">Guestbook</a> 
-	<a class="" href="/discography.php">Discography</a> 
-	<a class="" href="/faqs.php">FAQs</a> 
-	<a class="" href="/contact.php">Contact</a> 
-</div>				
-		<h1 class="text-center"><b style="color:#000;background:#ffff66">Bios</b></h1>
+		<h1 class="text-center">Bios</h1>
 		<p class="text-center">Click on your desired airborne member below.</p>				
+		
 		<center>
 			<img src="/images/Jump.jpg" width="472" height="267" usemap="#squirt" border="0"> 
 			<map name="squirt"> 
@@ -46,4 +47,5 @@
 			<p class="text-center standard gray">© 2000-2022 Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com/" target="_blank">Htmyell Design &amp; Development</a></p>
 		</footer>			
 	
-</div></body></html>
+	</body>
+</html>
