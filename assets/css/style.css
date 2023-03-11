@@ -39,7 +39,12 @@ a:visited{color: white;}
     margin: 0 auto;
 }
 
-#guestbook table { border-bottom: 2px; border-color: #42428C; padding-bottom: 5px; margin-bottom: 5px;  }
+
+#guestbook table { border-bottom: 2px solid #42428C; padding-bottom: 5px; margin-bottom: 5px;  }
+#guestbook table tbody{ display: block; padding: 5px; }
+
+
+
 
 #primary-navigation{ margin-top: -42px; }
 #primary-navigation a{ padding: 8px; font-size: 24px; text-decoration: none; font-weight: 300; margin-left: 20px; border: 3px solid black; }
