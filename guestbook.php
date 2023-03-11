@@ -11,33 +11,33 @@
 		
 		<title>Guestbook | Official Squirt Site!</title>
 		
-		<link rel="icon" href="https://squirtmusic.com/images/favicon.png" type="image/x-icon">		
+		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
 		<link rel="stylesheet" href="./guestbook_files/style.css" type="text/css">			
 		<meta name="Keywords" content="squirt, squirtpunk, squirtmusic, music, pop, punk, rock, bass, guitar, drums, newport news, virginia, hampton roads, warped, tour, headache, heartache, dorky, kids, discography, shows, spotify, apple, news, bios">
 		<meta property="og:type" content="website">	
 		<meta property="og:title" content="Official Squirt Site!">
 		<meta property="og:description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000.">
 		<meta property="og:image:type" content="image/jpeg">
-		<meta property="og:image" content="https://squirtmusic.com/images/squirt-group.jpg">
-		<meta property="og:url" content="https://squirtmusic.com/">    <meta name="Description" content="Guestbooks were a thing that people filled out and left messages for Squirt circa the year 2000.">
+		<meta property="og:image" content="/images/squirt-group.jpg">
+		<meta property="og:url" content="/">    <meta name="Description" content="Guestbooks were a thing that people filled out and left messages for Squirt circa the year 2000.">
 
     <title></title>
 </head>
 
 <body>
 
-    <a href="https://squirtmusic.com/"><img src="./guestbook_files/logo.jpg" width=""></a>
+    <a href="/"><img src="/images/logo.jpg" width=""></a>
 
 	
 
 <div id="primary-navigation" class="text-right">
-	<a class="" href="https://squirtmusic.com/shows.php">Shows</a> 
-	<a class="" href="https://squirtmusic.com/bios.php">Bios</a> 
-	<a class="" href="https://squirtmusic.com/news.php">News</a> 
-	<a class="active" href="https://squirtmusic.com/guestbook.php">Guestbook</a> 
-	<a class="" href="https://squirtmusic.com/discography.php">Discography</a> 
-	<a class="" href="https://squirtmusic.com/faqs.php">FAQs</a> 
-	<a class="" href="https://squirtmusic.com/contact.php">Contact</a> 
+	<a class="" href="/shows.php">Shows</a> 
+	<a class="" href="/bios.php">Bios</a> 
+	<a class="" href="/news.php">News</a> 
+	<a class="active" href="/guestbook.php">Guestbook</a> 
+	<a class="" href="/discography.php">Discography</a> 
+	<a class="" href="/faqs.php">FAQs</a> 
+	<a class="" href="/contact.php">Contact</a> 
 </div>
     <h1 class="text-center">Guestbook</h1>
 
@@ -61,7 +61,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>brandon</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>brandon</b></a></td>
                                         </tr>
                                         <tr>
                                             <td>Sex:</td><td>male</td>
@@ -89,7 +89,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>KT</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>KT</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -101,7 +101,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -136,7 +136,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Chris Herndon</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Chris Herndon</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -182,7 +182,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jewboy Stern</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Jewboy Stern</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -194,7 +194,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
+                                            <td><a href="/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
                                         </tr>
 
                                         <tr>
@@ -224,7 +224,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jewboy Stern</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Jewboy Stern</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -236,7 +236,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
+                                            <td><a href="/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
                                         </tr>
 
                                         <tr>
@@ -259,7 +259,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php" aol.com=""><b>amanda and lindsey</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php" aol.com=""><b>amanda and lindsey</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -271,7 +271,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/guestbook.php#" target="new">http:/www.beastiality.com</a></td>
+                                            <td><a href="/guestbook.php#" target="new">http:/www.beastiality.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -302,7 +302,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jamie</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Jamie</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -314,7 +314,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -336,7 +336,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jamie</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Jamie</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -388,7 +388,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Will Murphy</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Will Murphy</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -439,7 +439,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -492,7 +492,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -529,7 +529,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Trinity</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Trinity</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -541,7 +541,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -571,7 +571,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Damien</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Damien</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -612,7 +612,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>some guys</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>some guys</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -650,7 +650,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Josh McClaire</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Josh McClaire</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -715,7 +715,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -744,7 +744,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>SeAN</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>SeAN</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -756,7 +756,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -793,7 +793,7 @@
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jamie Taylor</b></a></td>
+                                            <td colspan="2"><a href="/guestbook.php"><b>Jamie Taylor</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -805,7 +805,7 @@
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="https://squirtmusic.com/" target="new">http://www.squirtmusic.com</a></td>
+                                            <td><a href="/" target="new">http://www.squirtmusic.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -847,7 +847,7 @@
 
 	            <center>
 						            
-	                <b><font size="1"><a href="https://squirtmusic.com/guestbook.php#">Jamie Taylor</a></font></b> <font size="1">
+	                <b><font size="1"><a href="/guestbook.php#">Jamie Taylor</a></font></b> <font size="1">
 	                <a href="https://web.archive.org/web/20020910212358/http://www.punkpages.com/">www.punkpages.com</a></font>
 	            </center>
                                 
