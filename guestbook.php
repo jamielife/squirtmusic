@@ -416,7 +416,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -639,7 +639,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="https://web.archive.org/web/20020910212358/http://www.andmore.20m.com/main.html" target="new">http://www.andmore.20m.com/main.html</a></td>
+                                                    <td><a href="https://web.archive.org/web/20010812000624/http://www.andmore.20m.com:80/main.html" target="new">http://www.andmore.20m.com/main.html</a></td>
                                                 </tr>
 
                                                 <tr>
