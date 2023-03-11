@@ -29,7 +29,7 @@
 
 		<div class="center">
 			<h1>Contact</h1>
-			<p>Contact options <b style="color:#000;background:#ffff66">coming</b> <b style="color:#000;background:#66ffff">soon</b>.</p>	
+			<p>Contact options coming soon.</p>	
 			<p>You should be able to contact Jamie via <a href="https://htmyell.com/contact/" target="_blank">Htmyell Design &amp; Development</a></p>		
 		</div>
 		

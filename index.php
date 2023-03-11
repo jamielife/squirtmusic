@@ -10,7 +10,8 @@
 		<meta property="og:description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000." />
 		<meta property="og:image:type" 	content="image/jpeg" />
 		<meta property="og:image" 		content="/images/squirt-group.jpg" />
-		<meta property="og:url" 		content="" />		<meta name="Description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000." />
+		<meta property="og:url" 		content="" />		
+		<meta name="Description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000." />
 	</head>
 	<body>
 
@@ -57,7 +58,8 @@
 			</div>			
 			
 			<div id="Layer3" style="position:absolute; left:550px; top:20px; width:0px; height:0px; z-index:5"><img src="/images/actionbar.gif" border="0"></div>
-			<div id="Layer3" style="position:absolute; left:62px; top:12px; width:0px; height:0px; z-index:5"><img src="/images/home.gif" border="0"></div>	
+			<div id="Layer3" style="position:absolute; left:62px; top:12px; width:0px; height:0px; z-index:5"><img src="/images/home.gif" border="0"></div>
+			
 		</div>
 		
 		<footer class="text-center"style="position: absolute; top: 400px; display: block; width: 100%" >
@@ -66,4 +68,4 @@
 		</footer>			
 	
 	</body>
-</html></div>
+</html>
