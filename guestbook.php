@@ -35,14 +35,14 @@
             <tbody>
                 <tr valign="top">
                     <td>
-                        <table id="guestbook" cellpadding="0" cellspacing="0">
+                        <table id="guestbook" cellpadding="0" cellspacing="0" bgcolor="#848484" border="2" bordercolor="#42428C">
                             <tbody>
                                 <tr>
                                     <td>
 
 
                                         <!-- entry 1 -->
-                                        <table cellpadding="0" cellspacing="0" bgcolor="#848484" border="2" bordercolor="#42428C">
+                                        <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
                                                     <td colspan="2"><a href="/guestbook.php"><b>brandon</b></a></td>
@@ -70,7 +70,7 @@
                                     
                                         
                                         <!-- entry 2 -->
-                                        <table cellpadding="0" cellspacing="0" bgcolor="#848484" border="2" bordercolor="#42428C">
+                                        <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
                                                     <td colspan="2"><a href="/guestbook.php"><b>KT</b></a></td>
@@ -110,7 +110,7 @@
                                         
 
                                         <!-- entry 3 -->
-                                        <table cellpadding="0" cellspacing="0" bgcolor="#848484" border="2" bordercolor="#42428C">
+                                        <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
                                                     <td colspan="2"><a href="/guestbook.php"><b>Chris Herndon</b></a></td>
@@ -156,7 +156,7 @@
 
                                         
 
-                                        <table cellpadding="0" cellspacing="0" bgcolor="#848484" border="2" bordercolor="#42428C">
+                                        <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
                                                     <td colspan="2"><a href="/guestbook.php"><b>Jewboy Stern</b></a></td>
