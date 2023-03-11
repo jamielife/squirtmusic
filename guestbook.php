@@ -31,7 +31,7 @@
 
         <p class="text-center gray">This the all new Squirt Guestbook I made it myself so that i wouldnt have to have advertisements sorry it took so long please sign it. - Jamie</p>
 
-        <table width="80%" align="center">
+        <table width="80%"  bgcolor="#848484" border="2" bordercolor="#42428C" align="center">
             <tbody>
                 <tr valign="top">
                     <td>

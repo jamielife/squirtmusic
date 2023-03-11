@@ -15,8 +15,6 @@
 	
 	<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-	
-
 <div id="primary-navigation" class="text-right">
 	<a class="" href="/shows.php">Shows</a> 
 	<a class="" href="/bios.php">Bios</a> 
