@@ -61,7 +61,7 @@
 
 		</div>
 		
-		<footer class="text-center" style="position: absolute; top: 420px; display: block; width: 100%" >
+		<footer class="text-center" style="position: absolute; top: 410px; display: block; width: 100%" >
 			<hr color="#424242" />
 			<p class="text-center standard gray" >&copy; 2000-2023 Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com" target="_blank">Htmyell Design & Development</a></p>
 		</footer>			
