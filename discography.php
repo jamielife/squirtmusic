@@ -36,7 +36,7 @@
 								<!-- onclick="alert(&#39;This was a cassette, if you know what that is. It has been lost to time.&#39;);" -->
 								<img class="disc" src="/images/disco-we-suck-but-you-only-paid-a-dollar.jpg" alt="we suck, but hey you only paid a dollar demo" border="0">
 								<br>
-								<span class="small">>We Suck But...</span> - <span class="small">Demo</span>
+								<span class="small">We Suck But...</span> - <span class="small">Demo</span>
 							</a> 
 						</td>
 						<td align="center">
