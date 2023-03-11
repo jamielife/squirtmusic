@@ -25,6 +25,9 @@ a:visited{color: white;}
 
 .active{
     border-bottom: 3px solid red;
+    text-decoration: underline; 
+    text-decoration-color: red; 
+    text-decoration-thickness: 3px;
 }
 
 .text-center{
@@ -45,4 +48,4 @@ a:visited{color: white;}
 
 #primary-navigation{ margin-top: -42px; }
 
-#primary-navigation a{ font-size: 24px; font-weight: bold; margin-left: 10px; }
+#primary-navigation a{ font-size: 24px; text-decoration: none; font-weight: bold; margin-left: 10px; }
