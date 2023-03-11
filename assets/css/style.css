@@ -39,6 +39,9 @@ a:visited{color: white;}
     margin: 0 auto;
 }
 
+.disc{
+    height: 220px;
+}
 
 #guestbook table { border-bottom: 2px solid #42428C; padding-bottom: 5px; margin-bottom: 5px; width: 100%;  }
 #guestbook table tbody{ display: block; padding: 5px; }
