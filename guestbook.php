@@ -820,37 +820,33 @@
                                 </tr>
                             </tbody>
                         </table>           
-
                         <center>                                        
-                            <b><font size="1"><a href="/guestbook.php#">Jamie Taylor</a></font></b> <font size="1">
-                            <a href="https://web.archive.org/web/20020910212358/http://www.punkpages.com/">www.punkpages.com</a></font>
-                        </center>
-                        +                    
+                            <font class="gray" size="1">
+                                <a target="_blank" href="https://web.archive.org/web/20020910212358/http://www.punkpages.com/"><b>Jamie Taylor</b> www.punkpages.com</a>
+                            </font>
+                        </center>                     
                     </td>
-
-                
                     <td>    
-                    
                         <table align="left" bgcolor="white" rules="groups" bordercolor="black">
-                        <tbody>
-                            <tr>
-                                <td bgcolor="gray">Affiliates</td>
-                            </tr>
+                            <tbody>
+                                <tr>
+                                    <td bgcolor="gray">Affiliates</td>
+                                </tr>
 
-                            <tr>
-                                <td>
-                                    <p class="text-center"><a class="black" href="https://web.archive.org/web/20020910212358/http://www.vmsrecords.com/" target="open">
-                                    VMS RECORDS</a>
-                                </p></td>
-                            </tr>
+                                <tr>
+                                    <td>
+                                        <p class="text-center"><a class="black" href="https://web.archive.org/web/20020910212358/http://www.vmsrecords.com/" target="open">
+                                        VMS RECORDS</a>
+                                    </p></td>
+                                </tr>
 
-                            <tr>
-                                <td>
-                                    <hr>
-                                    <a target="FDE" href="https://web.archive.org/web/20020206080147/http://www.drunkennoodle.com/" border="0"><img src="/images/dn.jpg" border="0"></a>
-                                </td>
-                            </tr>
-                        </tbody>
+                                <tr>
+                                    <td>
+                                        <hr>
+                                        <a target="FDE" href="https://web.archive.org/web/20020206080147/http://www.drunkennoodle.com/" border="0"><img src="/images/dn.jpg" border="0"></a>
+                                    </td>
+                                </tr>
+                            </tbody>
                         </table>
 
                     </td>
@@ -860,7 +856,7 @@
 
         <footer class="text-center">
 			<hr color="#424242">
-			<p class="text-center standard gray">© 2000-2022 Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com/" target="_blank">Htmyell Design &amp; Development</a></p>
+			<p class="text-center standard gray">© 2000-<?php echo date('Y'); ?> Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com/" target="_blank">Htmyell Design &amp; Development</a></p>
 		</footer>	
 
     </body>
