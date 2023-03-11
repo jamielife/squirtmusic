@@ -61,7 +61,7 @@
 					</tr>
 				</tbody>
 			</table>
-			<em>Note: Spotify artist discrepancy is currently being resolved, however album and tracks are working as intended. </em>
+			<em class="gray">Note: Spotify artist discrepancy is currently being resolved, however album and tracks are working as intended. </em>
 		</center>
 		
 		<footer class="text-center">
