@@ -29,7 +29,7 @@
 		
 		<h1 class="text-center">John Dixon</h1>		
 		
-		<div class="center">
+		<div class="text-center">
 			<img src="/images/johnbioback.jpg" width="675" height="290"><br><br>
 			<a class="block" href="/bios.php">&lt;&lt; Back</a>
 		</div>

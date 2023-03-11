@@ -15,7 +15,7 @@
 	</head>	
 	<body>
 
-		<a href="/"><img src="./jamie_files/logo.jpg"></a>	
+		<a href="/"><img src="/images/logo.jpg"></a>	
 
 		<div id="primary-navigation" class="text-right">
 			<a class="" href="/shows.php">Shows</a> 
@@ -29,8 +29,8 @@
 	
 		<h1 class="text-center">Jamie Taylor</h1>		
 		
-		<div class="center">
-			<img src="/images/jamiebioback.jpg" width="675" height="290">
+		<div class="text-center">
+			<img src="/images/jamiebioback.jpg" width="675" height="290"><br><br>
 			<a class="block" href="/bios.php">&lt;&lt; Back</a>
 		</div>
 		
