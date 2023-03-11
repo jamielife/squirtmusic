@@ -27,9 +27,9 @@
 			<a class="active" href="/contact.php">Contact</a> 
 		</div>
 
-		<div class="center">
+		<div class="text-center">
 			<h1>Contact</h1>
-			<p>Contact options coming soon.</p>	
+			<p class="gray">Contact options coming soon.</p>	
 			<p>You should be able to contact Jamie via <a href="https://htmyell.com/contact/" target="_blank">Htmyell Design &amp; Development</a></p>		
 		</div>
 		

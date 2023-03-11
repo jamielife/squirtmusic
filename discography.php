@@ -27,7 +27,7 @@
 
 		<center>
 			<h1>Discography</h1>
-			<h2>Select an album:</h2>
+			<p class="text-center gray">Select an album:</p>
 			<table border="0" cellspacing="10" cellpadding="10">
 				<tbody>
 					<tr>

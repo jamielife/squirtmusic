@@ -29,7 +29,7 @@
         
         <h1 class="text-center">Guestbook</h1>
 
-        <p class="text-center">This the all new Squirt Guestbook I made it myself so that i wouldnt have to have advertisements sorry it took so long please sign it. - Jamie</p>
+        <p class="text-center gray">This the all new Squirt Guestbook I made it myself so that i wouldnt have to have advertisements sorry it took so long please sign it. - Jamie</p>
 
         <table width="80%" align="center">
             <tbody>

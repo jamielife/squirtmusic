@@ -29,7 +29,7 @@
 		</div>	
 
 		<h1 class="text-center">Bios</h1>
-		<p class="text-center">Click on your desired airborne member below.</p>				
+		<p class="text-center gray">Click on your desired airborne member below.</p>				
 		
 		<center>
 			<img src="/images/Jump.jpg" width="472" height="267" usemap="#squirt" border="0"> 

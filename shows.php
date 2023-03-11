@@ -27,7 +27,7 @@
 		</div>
 
 		<h1 class="text-center">Upcoming Shows</h1>
-		<p class="text-center">This is the list of shows past and future make sure you the day 2 before the shows to make sure they are still set.</p>		
+		<p class="text-center gray">This is the list of shows past and future make sure you the day 2 before the shows to make sure they are still set.</p>		
 		
 		<table cellpadding="0" cellspacing="0" align="center" width="80%">
 			<tbody>
