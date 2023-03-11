@@ -3,7 +3,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Guestbook | Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
-		<link rel="stylesheet" href="./guestbook_files/style.css" type="text/css">			
+		<link rel="stylesheet" href="/assets/css/style.css" type="text/css">			
 		<meta name="Keywords" content="squirt, squirtpunk, squirtmusic, music, pop, punk, rock, bass, guitar, drums, newport news, virginia, hampton roads, warped, tour, headache, heartache, dorky, kids, discography, shows, spotify, apple, news, bios">
 		<meta property="og:type" content="website">	
 		<meta property="og:title" content="Official Squirt Site!">
