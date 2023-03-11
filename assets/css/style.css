@@ -42,7 +42,7 @@ a:visited{color: white;}
 
 #guestbook table { border-bottom: 2px solid #42428C; padding-bottom: 5px; margin-bottom: 5px; width: 100%;  }
 #guestbook table tbody{ display: block; padding: 5px; }
-#guestbook table tbody tr td{ display: block; width: 50%; }
+#guestbook table tbody tr td:first { display: block; width: 40%; }
 
 
 
