@@ -23,10 +23,6 @@ a:visited{color: white;}
     color: #00009a;
 }
 
-.active{
-    border: 3px solid red;
-}
-
 .text-center{
     text-align: center;
 } 
@@ -45,4 +41,8 @@ a:visited{color: white;}
 
 #primary-navigation{ margin-top: -42px; }
 
-#primary-navigation a{ font-size: 24px; text-decoration: none; font-weight: 300; margin-left: 10px; }
+#primary-navigation a{ font-size: 24px; text-decoration: none; font-weight: 300; margin-left: 20px; border: 3px solid black; }
+
+.active{
+    border: 3px solid red;
+}
