@@ -1,19 +1,4 @@
-
-<!-- saved from url=(0079)http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="./guestbook_files/analytics.js.download" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app223.us.archive.org';v.server_ms=373;archive_analytics.send_pageview({});});</script>
-<script type="text/javascript" src="./guestbook_files/bundle-playback.js.download" charset="utf-8"></script>
-<script type="text/javascript" src="./guestbook_files/wombat.js.download" charset="utf-8"></script>
-<script type="text/javascript">
-  __wm.init("http://web.archive.org/web");
-  __wm.wombat("https://squirtmusic.com/guestbook.php","20220522064220","http://web.archive.org/","web","/_static/",
-	      "1653201740");
-</script>
-<link rel="stylesheet" type="text/css" href="./guestbook_files/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="./guestbook_files/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-
-    
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async="" src="./guestbook_files/js"></script>
 		<script>
@@ -26,41 +11,33 @@
 		
 		<title>Guestbook | Official Squirt Site!</title>
 		
-		<link rel="icon" href="http://web.archive.org/web/20220522064220im_/https://squirtmusic.com/images/favicon.png" type="image/x-icon">		
+		<link rel="icon" href="https://squirtmusic.com/images/favicon.png" type="image/x-icon">		
 		<link rel="stylesheet" href="./guestbook_files/style.css" type="text/css">			
 		<meta name="Keywords" content="squirt, squirtpunk, squirtmusic, music, pop, punk, rock, bass, guitar, drums, newport news, virginia, hampton roads, warped, tour, headache, heartache, dorky, kids, discography, shows, spotify, apple, news, bios">
 		<meta property="og:type" content="website">	
 		<meta property="og:title" content="Official Squirt Site!">
 		<meta property="og:description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000.">
 		<meta property="og:image:type" content="image/jpeg">
-		<meta property="og:image" content="http://web.archive.org/web/20220522064220im_/https://squirtmusic.com/images/squirt-group.jpg">
-		<meta property="og:url" content="http://web.archive.org/web/20220522064220/https://squirtmusic.com/">    <meta name="Description" content="Guestbooks were a thing that people filled out and left messages for Squirt circa the year 2000.">
+		<meta property="og:image" content="https://squirtmusic.com/images/squirt-group.jpg">
+		<meta property="og:url" content="https://squirtmusic.com/">    <meta name="Description" content="Guestbooks were a thing that people filled out and left messages for Squirt circa the year 2000.">
 
     <title></title>
 </head>
 
-<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
-<script>__wm.rw(0);</script>
-<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr;">
-</div><div id="wm-ipp-print">The Wayback Machine - http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php</div>
-<script type="text/javascript">//<![CDATA[
-__wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","20220522064220",1996,"/_static/",["/_static/css/banner-styles.css?v=S1zqJCYt","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
-  __wm.rw(1);
-//]]></script>
-<!-- END WAYBACK TOOLBAR INSERT -->
- 
-    <a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/"><img src="./guestbook_files/logo.jpg" width=""></a>
+<body>
+
+    <a href="https://squirtmusic.com/"><img src="./guestbook_files/logo.jpg" width=""></a>
 
 	
 
 <div id="primary-navigation" class="text-right">
-	<a class="" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/shows.php">Shows</a> 
-	<a class="" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/bios.php">Bios</a> 
-	<a class="" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/news.php">News</a> 
-	<a class="active" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php">Guestbook</a> 
-	<a class="" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/discography.php">Discography</a> 
-	<a class="" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/faqs.php">FAQs</a> 
-	<a class="" href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/contact.php">Contact</a> 
+	<a class="" href="https://squirtmusic.com/shows.php">Shows</a> 
+	<a class="" href="https://squirtmusic.com/bios.php">Bios</a> 
+	<a class="" href="https://squirtmusic.com/news.php">News</a> 
+	<a class="active" href="https://squirtmusic.com/guestbook.php">Guestbook</a> 
+	<a class="" href="https://squirtmusic.com/discography.php">Discography</a> 
+	<a class="" href="https://squirtmusic.com/faqs.php">FAQs</a> 
+	<a class="" href="https://squirtmusic.com/contact.php">Contact</a> 
 </div>
     <h1 class="text-center">Guestbook</h1>
 
@@ -84,13 +61,13 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>brandon</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>brandon</b></a></td>
                                         </tr>
                                         <tr>
                                             <td>Sex:</td><td>male</td>
                                         </tr>
                                         <tr>
-                                            <td>Webpage:</td><td><a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.racestoapril.com/" target="new">http://www.racestoapril.com</a></td>
+                                            <td>Webpage:</td><td><a href="https://web.archive.org/web/20020910212358/http://www.racestoapril.com/" target="new">http://www.racestoapril.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -112,7 +89,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>KT</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>KT</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -124,7 +101,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -159,7 +136,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Chris Herndon</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Chris Herndon</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -171,7 +148,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.geocities.com/stung_4_life3/againstourwill.html" target="new">http://www.geocities.com/stung_4_life3/againstourwill.html</a></td>
+                                            <td><a href="https://web.archive.org/web/20020910212358/http://www.geocities.com/stung_4_life3/againstourwill.html" target="new">http://www.geocities.com/stung_4_life3/againstourwill.html</a></td>
                                         </tr>
 
                                         <tr>
@@ -205,7 +182,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Jewboy Stern</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jewboy Stern</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -217,7 +194,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
+                                            <td><a href="https://squirtmusic.com/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
                                         </tr>
 
                                         <tr>
@@ -247,7 +224,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Jewboy Stern</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jewboy Stern</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -259,7 +236,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
+                                            <td><a href="https://squirtmusic.com/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
                                         </tr>
 
                                         <tr>
@@ -282,7 +259,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php" aol.com=""><b>amanda and lindsey</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php" aol.com=""><b>amanda and lindsey</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -294,7 +271,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php#" target="new">http:/www.beastiality.com</a></td>
+                                            <td><a href="https://squirtmusic.com/guestbook.php#" target="new">http:/www.beastiality.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -325,7 +302,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Jamie</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jamie</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -337,7 +314,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -359,7 +336,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Jamie</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jamie</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -371,7 +348,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.test.com/" target="new">http://www.test.com</a></td>
+                                            <td><a href="https://web.archive.org/web/20020910212358/http://www.test.com/" target="new">http://www.test.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -411,7 +388,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Will Murphy</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Will Murphy</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -462,7 +439,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -515,7 +492,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -552,7 +529,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Trinity</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Trinity</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -564,7 +541,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -594,7 +571,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Damien</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Damien</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -606,7 +583,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.angelfire.com/indie/thenotalentshow" target="new">http://www.angelfire.com/indie/thenotalentshow</a></td>
+                                            <td><a href="https://web.archive.org/web/20020910212358/http://www.angelfire.com/indie/thenotalentshow" target="new">http://www.angelfire.com/indie/thenotalentshow</a></td>
                                         </tr>
 
                                         <tr>
@@ -635,7 +612,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>some guys</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>some guys</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -647,7 +624,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://someguysontheweb.com/" target="new">http://someguysontheweb.com</a></td>
+                                            <td><a href="https://web.archive.org/web/20020910212358/http://someguysontheweb.com/" target="new">http://someguysontheweb.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -673,7 +650,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Josh McClaire</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Josh McClaire</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -685,7 +662,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.andmore.20m.com/main.html" target="new">http://www.andmore.20m.com/main.html</a></td>
+                                            <td><a href="https://web.archive.org/web/20020910212358/http://www.andmore.20m.com/main.html" target="new">http://www.andmore.20m.com/main.html</a></td>
                                         </tr>
 
                                         <tr>
@@ -738,7 +715,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -767,7 +744,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>SeAN</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>SeAN</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -779,7 +756,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                            <td><a href="https://squirtmusic.com/cgi-bin/guestbook.cgi" target="new">http://</a></td>
                                         </tr>
 
                                         <tr>
@@ -816,7 +793,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td colspan="2"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php"><b>Jamie Taylor</b></a></td>
+                                            <td colspan="2"><a href="https://squirtmusic.com/guestbook.php"><b>Jamie Taylor</b></a></td>
                                         </tr>
 
                                         <tr>
@@ -828,7 +805,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                                         <tr>
                                             <td>Webpage:</td>
 
-                                            <td><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/" target="new">http://www.squirtmusic.com</a></td>
+                                            <td><a href="https://squirtmusic.com/" target="new">http://www.squirtmusic.com</a></td>
                                         </tr>
 
                                         <tr>
@@ -870,8 +847,8 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
 
 	            <center>
 						            
-	                <b><font size="1"><a href="http://web.archive.org/web/20220522064220/https://squirtmusic.com/guestbook.php#">Jamie Taylor</a></font></b> <font size="1">
-	                <a href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.punkpages.com/">www.punkpages.com</a></font>
+	                <b><font size="1"><a href="https://squirtmusic.com/guestbook.php#">Jamie Taylor</a></font></b> <font size="1">
+	                <a href="https://web.archive.org/web/20020910212358/http://www.punkpages.com/">www.punkpages.com</a></font>
 	            </center>
                                 
                                 
@@ -891,7 +868,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
 
                         <tr>
                             <td>
-                                <p class="text-center"><a class="black" href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020910212358/http://www.vmsrecords.com/" target="open">
+                                <p class="text-center"><a class="black" href="https://web.archive.org/web/20020910212358/http://www.vmsrecords.com/" target="open">
                                 VMS RECORDS</a>
                             </p></td>
                         </tr>
@@ -899,7 +876,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
                         <tr>
                             <td>
                                 <hr>
-                                <a target="FDE" href="http://web.archive.org/web/20220522064220/https://web.archive.org/web/20020206080147/http://www.drunkennoodle.com/" border="0"><img src="./guestbook_files/dn.jpg" border="0"></a>
+                                <a target="FDE" href="https://web.archive.org/web/20020206080147/http://www.drunkennoodle.com/" border="0"><img src="./guestbook_files/dn.jpg" border="0"></a>
                             </td>
                         </tr>
                     </tbody>
@@ -917,8 +894,7 @@ __wm.bt(700,27,25,2,"web","https://squirtmusic.com/guestbook.php","2022052206422
     </tbody></table>
 		</p><footer class="text-center">
 			<hr color="#424242">
-			<p class="text-center standard gray">© 2000-2022 Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="http://web.archive.org/web/20220522064220/https://htmyell.com/" target="_blank">Htmyell Design &amp; Development</a></p>
+			<p class="text-center standard gray">© 2000-2022 Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com/" target="_blank">Htmyell Design &amp; Development</a></p>
 		</footer>	
 
-
-<script src="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js"></script><script src="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js"></script><script src="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js"></script><script src="chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js"></script></body></html>
+</body></html>
