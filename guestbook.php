@@ -876,7 +876,7 @@
                         <tr>
                             <td>
                                 <hr>
-                                <a target="FDE" href="https://web.archive.org/web/20020206080147/http://www.drunkennoodle.com/" border="0"><img src="./guestbook_files/dn.jpg" border="0"></a>
+                                <a target="FDE" href="https://web.archive.org/web/20020206080147/http://www.drunkennoodle.com/" border="0"><img src="/images/dn.jpg" border="0"></a>
                             </td>
                         </tr>
                     </tbody>
