@@ -45,7 +45,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>brandon</b></a></td>
+                                                    <td colspan="2"><b>brandon</b></a></td>
                                                 </tr>
                                                 <tr>
                                                     <td>Sex:</td><td>male</td>
@@ -73,7 +73,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>KT</b></a></td>
+                                                    <td colspan="2"><b>KT</b></a></td>
                                                 </tr>
 
                                                 <tr>
@@ -85,7 +85,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -113,7 +113,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Chris Herndon</b></a></td>
+                                                    <td colspan="2"><b>Chris Herndon</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -159,7 +159,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Jewboy Stern</b></a></td>
+                                                    <td colspan="2"><b>Jewboy Stern</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -171,7 +171,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
+                                                    <td>do i have one of these?</td>
                                                 </tr>
 
                                                 <tr>
@@ -201,7 +201,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Jewboy Stern</b></a></td>
+                                                    <td colspan="2"><b>Jewboy Stern</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -213,7 +213,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/:80/cgi-bin/do" i="" have="" one="" of="" target="new">do i have one of these?</a></td>
+                                                    <td>do i have one of these?</td>
                                                 </tr>
 
                                                 <tr>
@@ -236,7 +236,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php" aol.com=""><b>amanda and lindsey</b></a></td>
+                                                    <td colspan="2"><b>amanda and lindsey</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -248,7 +248,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/guestbook.php#" target="new">http:/www.beastiality.com</a></td>
+                                                    <td>http:/www.beastiality.com</td>
                                                 </tr>
 
                                                 <tr>
@@ -279,7 +279,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Jamie</b></a></td>
+                                                    <td colspan="2"><b>Jamie</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -291,7 +291,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -313,7 +313,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Jamie</b></a></td>
+                                                    <td colspan="2"><b>Jamie</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -325,7 +325,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="https://web.archive.org/web/20020910212358/http://www.test.com/" target="new">http://www.test.com</a></td>
+                                                    <td><a href="https://web.archive.org/web/20020910212358/http://www.test.com/" target="new">http://www.test.com</td>
                                                 </tr>
 
                                                 <tr>
@@ -365,7 +365,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Will Murphy</b></a></td>
+                                                    <td colspan="2"><b>Will Murphy</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -416,7 +416,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -469,7 +469,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -506,7 +506,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Trinity</b></a></td>
+                                                    <td colspan="2"><b>Trinity</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -518,7 +518,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -548,7 +548,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Damien</b></a></td>
+                                                    <td colspan="2"><b>Damien</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -589,7 +589,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>some guys</b></a></td>
+                                                    <td colspan="2"><b>some guys</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -627,7 +627,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Josh McClaire</b></a></td>
+                                                    <td colspan="2"><b>Josh McClaire</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -692,7 +692,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -721,7 +721,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>SeAN</b></a></td>
+                                                    <td colspan="2"><b>SeAN</b></td>
                                                 </tr>
 
                                                 <tr>
@@ -733,7 +733,7 @@
                                                 <tr>
                                                     <td>Webpage:</td>
 
-                                                    <td><a href="/cgi-bin/guestbook.cgi" target="new">http://</a></td>
+                                                    <td>http://</td>
                                                 </tr>
 
                                                 <tr>
@@ -770,7 +770,7 @@
                                         <table cellpadding="0" cellspacing="0">
                                             <tbody>
                                                 <tr>
-                                                    <td colspan="2"><a href="/guestbook.php"><b>Jamie Taylor</b></a></td>
+                                                    <td colspan="2"><b>Jamie Taylor</b></td>
                                                 </tr>
 
                                                 <tr>
