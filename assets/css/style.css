@@ -38,3 +38,5 @@ a:visited{color: white;}
 .center{
     margin: 0 auto;
 }
+
+#primary-navigation a{ font-size: 24px; }
