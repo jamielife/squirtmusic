@@ -1,15 +1,4 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
-		
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script type="text/javascript" async="" src="./contact_files/analytics.js.download"></script><script async="" src="./contact_files/js"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-		
-		  gtag('config', 'UA-15392232-7');
-		</script>
 		
 		<title>Contact | Official Squirt Site!</title>
 		

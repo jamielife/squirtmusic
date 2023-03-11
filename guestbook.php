@@ -1,13 +1,4 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async="" src="./guestbook_files/js"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-		
-		  gtag('config', 'UA-15392232-7');
-		</script>
 		
 		<title>Guestbook | Official Squirt Site!</title>
 		
