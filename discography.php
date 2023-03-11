@@ -32,7 +32,8 @@
 				<tbody>
 					<tr>
 						<td align="center">
-							<a href="/discography.php#" title="We Suck but... hey you only paid a dollar" onclick="alert(&#39;This was a cassette, if you know what that is. It has been lost to time.&#39;);">
+							<a href="/images/we-suck-full.jpg" target="_blank" title="We Suck but... hey you only paid a dollar">
+								<!-- onclick="alert(&#39;This was a cassette, if you know what that is. It has been lost to time.&#39;);" -->
 								<img class="disc" src="/images/disco-we-suck-but-you-only-paid-a-dollar.jpg" alt="we suck, but hey you only paid a dollar demo" border="0">
 								<br>
 								<span class="small">>We Suck But...</span>
@@ -61,7 +62,6 @@
 					</tr>
 				</tbody>
 			</table>
-			<em class="gray">Note: Spotify artist discrepancy is currently being resolved, however album and tracks are working as intended. </em>
 		</center>
 		
 		<footer class="text-center">
