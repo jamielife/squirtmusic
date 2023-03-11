@@ -27,7 +27,7 @@
 			<a class="" href="/contact.php">Contact</a> 
 		</div>	
 	
-		<div class="table-text" style="position: relative; width: 657px; height: 320px; margin: 20px auto;">
+		<div class="table-text purple" style="position: relative; width: 657px; height: 320px; margin: 20px auto;">
 			<div id="Layer2" style="position:absolute; left:-2px; top:-5px; width:100px; height:83px; z-index:2">
 				<img src="/images/newsquirt.gif" border="0">
 			</div>
