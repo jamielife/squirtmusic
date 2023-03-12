@@ -16,8 +16,6 @@
 	<body>
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-	
-
 		<div id="primary-navigation" class="text-right">
 			<a class="" href="/shows.php">Shows</a> 
 			<a class="" href="/bios.php">Bios</a> 
@@ -130,13 +128,7 @@
 									</td>
 								</tr>
 							</tbody>
-						</table>			
-						
-						
-						
-						
-						
-						
+						</table>									
 						
 					</td>
 					<td>
@@ -184,7 +176,6 @@
 				</tr>
 			</tbody>
 		</table>		
-
 		
 		<footer class="text-center">
 			<hr color="#424242">
