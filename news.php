@@ -64,7 +64,7 @@
 								<tr> 
 									<td valign="top">
 										<font color="navy">
-											<div align="left"><a href="/images/warped.jpg" target="_blank"><img src="/images/warped.jpg" alt="daily press article featuring Squirt" height="50px" align="right" /></a>Hey everyone.  Squirt is featured on the front page of todays (5-27) Daily Press local section as a follow up to an article two years ago.  check it out.  <br>Thanx to everyone who came out the the show at the Pan.  It was rockin.  thats all for now. thanx for checkin in and keep on rockin.  lata 
+											<div align="left"><a href="/images/warped.jpg" target="_blank"><img src="/images/warped.jpg" alt="daily press article featuring Squirt" height="100px" align="right" /></a>Hey everyone.  Squirt is featured on the front page of todays (5-27) Daily Press local section as a follow up to an article two years ago.  check it out.  <br>Thanx to everyone who came out the the show at the Pan.  It was rockin.  thats all for now. thanx for checkin in and keep on rockin.  lata 
 											</div>
 										</font>
 									</td>
