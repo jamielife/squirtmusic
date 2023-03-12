@@ -46,7 +46,7 @@
 								<tr>
 									<td valign="top">
 										<font color="Navy">
-											<div align="left">Hey hey all!!! Lots to go over so lets get started:<br>1.  <b style="color:#000;background:#ffff66">We</b>'d like to thank all the fans and bands that came out and rocked out at the DCA show in Deltaville.  <b style="color:#000;background:#ffff66">We</b> had a great time and what a rockin show that was.  <br>2.  As u may allready know "Headache and Heartache" is now available for purchase online.  If u have any questions regarding how to order or any thing of the sort feel free to email merchandise@squirtmusic.com and <b style="color:#000;background:#ffff66">we</b> will get ur answers to ya as soon as possible.  cds are 5 bucks and <b style="color:#000;background:#ffff66">we</b> do have to charge 7 dollars to mail (shipping and handling and all that mess).  sorry for the high price but with inflation and anthrax and all u know.  <br>3.  Thanx to everyone who has allready picked up their copies of the cd <b style="color:#000;background:#ffff66">we</b> hope u like it and are rockin out to it.  if not u can whoop our mothaf#$%in asses.<br>4.  As u have probly seen <b style="color:#000;background:#ffff66">we</b> have done a few changes to the website.  new intro and stuff and there may be a few more changes comin so get ready.  our webdork has really been workin hard.  <br>5.  and finally only two more weeks to the highly anticipated Chicago vs. Virginia Show at Gloucester Point Beach.  Its August 17th.  If u would be interested in passing out flyers or doing anything to help promote this show, please email squirt@squirtmusic.com and <b style="color:#000;background:#ffff66">we</b> will let ya know what u can do.  Everyone needs to come out to this show it WILL w/o a doubt be the most rockin show of the summer.  directions and all other info are available on the shows page.  <br>well thats all for now.  thanx for checkin in and until next time keep rockin!!! lata
+											<div align="left">Hey hey all!!! Lots to go over so lets get started:<br>1.  We'd like to thank all the fans and bands that came out and rocked out at the DCA show in Deltaville.  We had a great time and what a rockin show that was.  <br>2.  As u may allready know "Headache and Heartache" is now available for purchase online.  If u have any questions regarding how to order or any thing of the sort feel free to email merchandise@squirtmusic.com and we will get ur answers to ya as soon as possible.  cds are 5 bucks and we do have to charge 7 dollars to mail (shipping and handling and all that mess).  sorry for the high price but with inflation and anthrax and all u know.  <br>3.  Thanx to everyone who has allready picked up their copies of the cd we hope u like it and are rockin out to it.  if not u can whoop our mothaf#$%in asses.<br>4.  As u have probly seen we have done a few changes to the website.  new intro and stuff and there may be a few more changes comin so get ready.  our webdork has really been workin hard.  <br>5.  and finally only two more weeks to the highly anticipated Chicago vs. Virginia Show at Gloucester Point Beach.  Its August 17th.  If u would be interested in passing out flyers or doing anything to help promote this show, please email squirt@squirtmusic.com and we will let ya know what u can do.  Everyone needs to come out to this show it WILL w/o a doubt be the most rockin show of the summer.  directions and all other info are available on the shows page.  <br>well thats all for now.  thanx for checkin in and until next time keep rockin!!! lata
 											</div>
 										</font>
 									</td>
@@ -86,7 +86,7 @@
 								<tr>
 									<td valign="top">
 										<font color="Navy">
-											<div align="left">Squirt has a show on feb 9th, glouchester skate park.... doors open at 7...show at 730, backside slappy, squirt, and more, rukus.....4 bucks..., if you need directions email someone in the band and <b style="color:#000;background:#ffff66">we</b> will get them to you
+											<div align="left">Squirt has a show on feb 9th, glouchester skate park.... doors open at 7...show at 730, backside slappy, squirt, and more, rukus.....4 bucks..., if you need directions email someone in the band and we will get them to you
 											</div>
 										</font>
 									</td>
@@ -105,19 +105,13 @@
 								<tr> 
 									<td valign="top">
 										<font color="Navy">
-											<div align="left">Hello once again all u dorky rockers. The Mad Gurl Compilation CD's have been finished (finally) and should be arriving any day now. <b style="color:#000;background:#ffff66">we</b> will recieve 20 copies. The comp features Midtown, RX Bandits, and Allister among others and also local favs Backside Slappy (<b style="color:#000;background:#ffff66">we</b> love em). They will sell for 5 or 6 bucks and contact me or dean about getting yourself one. <br>In other news, <b style="color:#000;background:#ffff66">we</b> are still in the studio mixing and recording. <b style="color:#000;background:#ffff66">We</b>'re going as fast as <b style="color:#000;background:#ffff66">we</b> can but want it to be as good as possible (which of course isnt that good ha). <b style="color:#000;background:#ffff66">We</b>'re still hoping for an early 2002 release date on that bad boy from Thumbs Down Records and FDE Productions. <br>And finally in some more very pleasant news, <b style="color:#000;background:#ffff66">we</b> will be apart of a forthcoming split cd with Shindig, Heaven and Breakfast, and Kobie. All three of these bands, if you have not yet heard them, are GREAT! The cd has not yet been titled or given a release date yet though so keep checking in for news on that. <br>Also please sign the guestbook and let us know what you think (i.e. <b style="color:#000;background:#ffff66">we</b> <b style="color:#000;background:#66ffff">suck</b>, <b style="color:#000;background:#ffff66">we</b>'re great, u love us, were sexy, u wanna have our babies, wish <b style="color:#000;background:#ffff66">we</b> didnt wear underwear, etc.) and don't forget to sign up for the mailing list to keep up with all the latest developments in the world of Squirt. So until next time, rock on dorky kids.  <br> 
+											<div align="left">Hello once again all u dorky rockers. The Mad Gurl Compilation CD's have been finished (finally) and should be arriving any day now. we will recieve 20 copies. The comp features Midtown, RX Bandits, and Allister among others and also local favs Backside Slappy (we love em). They will sell for 5 or 6 bucks and contact me or dean about getting yourself one. <br>In other news, we are still in the studio mixing and recording. We're going as fast as we can but want it to be as good as possible (which of course isnt that good ha). We're still hoping for an early 2002 release date on that bad boy from Thumbs Down Records and FDE Productions. <br>And finally in some more very pleasant news, we will be apart of a forthcoming split cd with Shindig, Heaven and Breakfast, and Kobie. All three of these bands, if you have not yet heard them, are GREAT! The cd has not yet been titled or given a release date yet though so keep checking in for news on that. <br>Also please sign the guestbook and let us know what you think (i.e. we <b style="color:#000;background:#66ffff">suck, we're great, u love us, were sexy, u wanna have our babies, wish we didnt wear underwear, etc.) and don't forget to sign up for the mailing list to keep up with all the latest developments in the world of Squirt. So until next time, rock on dorky kids.  <br> 
 											</div>
 										</font>
 									</td>
 								</tr>
 							</tbody>
 						</table>
-						
-						
-						
-						
-						
-						
 						
 						<!-- ############################################# Article ############################################# -->	
 						<table class="news" bgcolor="#848484" border="2" bordercolor="#42428C" valign="top" width="100%">
@@ -165,7 +159,7 @@
 												<tr>
 													<td> 
 														<center>
-															<form method="POST" action="/news.php#">
+															<form id="newsletter" method="POST" action="/news.php#">
 																<input type="hidden" name="recipient" value="nahson">
 																<input type="hidden" name="required" value="Name, email">
 																<input type="hidden" name="subject" value="I Wanna Join the Mailin List!">
