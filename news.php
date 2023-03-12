@@ -10,7 +10,8 @@
 		<meta property="og:description" content="Squirt is a small group of dorky kids from Newport News, VA playing pop-punk music circa the year 2000.">
 		<meta property="og:image:type" content="image/jpeg">
 		<meta property="og:image" content="/images/squirt-group.jpg">
-		<meta property="og:url" content="">		<meta name="Description" content="Squirt news is relevant as is time when it&#39;s circa the year 2000.">
+		<meta property="og:url" content="">		
+		<meta name="Description" content="Squirt news is relevant as is time when it&#39;s circa the year 2000.">
 	</head>
 	<body>
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
