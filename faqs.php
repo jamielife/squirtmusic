@@ -1,6 +1,7 @@
 <html>
 	<head>
-		<?php include "./components/ga.php"; ?>		
+		<?php include "./components/ga.php"; ?>
+		<?php echo $_SERVER['PHP_SELF']; ?>		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Faqs | Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
@@ -23,7 +24,7 @@
 			<a class="" href="/news.php">News</a> 
 			<a class="" href="/guestbook.php">Guestbook</a> 
 			<a class="" href="/discography.php">Discography</a> 
-			<a class="active" href="/faqs.php">FAQs</a> 
+			<a class="<?php if $active == true active" href="/faqs.php">FAQs</a> 
 			<a class="" href="/contact.php">Contact</a> 
 		</div>				
 		<h1 class="text-center">FAQs</h1>		
