@@ -51,10 +51,7 @@
 			</table>
 		</center>
 		
-		<footer class="text-center">
-			<hr color="#424242">
-			<p class="text-center standard gray">© 2000-<?php echo date('Y'); ?> Squirt | Site originally designed and lovingly restored by <a class="standard gray underline" href="https://htmyell.com/" target="_blank">Htmyell Design &amp; Development</a></p>
-		</footer>			
+		<?php include "./components/footer.php"; ?>		
 	
 	</body>
 </html>
