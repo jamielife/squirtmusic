@@ -1,6 +1,9 @@
 <html>
 	<head>
-		<?php include "/components/ga.php" ;?>
+		<?php
+		error_reporting(E_ALL);
+		ini_set('display_errors', 1);
+		include "/components/ga.php"; ?>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">		
 		<title>Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
