@@ -2,7 +2,6 @@
 	<head>
 		<?php include "./components/ga.php"; ?>		
 		<?php error_reporting(E_ALL); ini_set('display_errors', 1); ?>
-		<?php echo $_SERVER['PHP_SELF']; ?>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Faqs | Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
@@ -19,15 +18,8 @@
 	<body>
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-		<div id="primary-navigation" class="text-right">
-			<a class="" href="/shows.php">Shows</a> 
-			<a class="" href="/bios.php">Bios</a> 
-			<a class="" href="/news.php">News</a> 
-			<a class="" href="/guestbook.php">Guestbook</a> 
-			<a class="" href="/discography.php">Discography</a> 
-			<a class="active" href="/faqs.php">FAQs</a> 
-			<a class="" href="/contact.php">Contact</a> 
-		</div>				
+		<?php include "./components/nav.php"; ?>	
+	
 		<h1 class="text-center">FAQs</h1>		
 
 			<table align="center" width="80%;">
