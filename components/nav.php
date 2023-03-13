@@ -7,4 +7,4 @@
 			<a <?php if($_SERVER['PHP_SELF'] == '/faqs.php'): ?> class="active"<?php endif; ?> href="/faqs.php">FAQs</a> 
 			<a <?php if($_SERVER['PHP_SELF'] == '/contact.php'): ?> class="active"<?php endif; ?> href="/contact.php">Contact</a> 
 		</div>		
-			<?php echo $_SERVER['PHP_SELF']; ?>
+        

@@ -17,15 +17,7 @@
 	<body>	
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-		<div id="primary-navigation" class="text-right">
-			<a class="active" href="/shows.php">Shows</a> 
-			<a class="" href="/bios.php">Bios</a> 
-			<a class="" href="/news.php">News</a> 
-			<a class="" href="/guestbook.php">Guestbook</a> 
-			<a class="" href="/discography.php">Discography</a> 
-			<a class="" href="/faqs.php">FAQs</a> 
-			<a class="" href="/contact.php">Contact</a> 
-		</div>
+		<?php include "./components/nav.php"; ?>
 
 		<h1 class="text-center">Upcoming Shows</h1>
 		<p class="text-center gray">This is the list of shows past and future make sure you the day 2 before the shows to make sure they are still set.</p>		

@@ -18,15 +18,7 @@
 
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-		<div id="primary-navigation" class="text-right">
-			<a class="" href="/shows.php">Shows</a> 
-			<a class="" href="/bios.php">Bios</a> 
-			<a class="" href="/news.php">News</a> 
-			<a class="" href="/guestbook.php">Guestbook</a> 
-			<a class="" href="/discography.php">Discography</a> 
-			<a class="" href="/faqs.php">FAQs</a> 
-			<a class="" href="/contact.php">Contact</a> 
-		</div>	
+		<?php include "./components/nav.php"; ?>
 	
 		<div class="table-text purple" style="position: relative; width: 657px; height: 320px; margin: 20px auto;">
 			<div id="Layer2" style="position:absolute; left:-2px; top:-5px; width:100px; height:83px; z-index:2">

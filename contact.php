@@ -18,15 +18,7 @@
 	<body>		
 		<a href="/"><img src="/images/logo.jpg" width=""></a>
 
-		<div id="primary-navigation" class="text-right">
-			<a class="" href="/shows.php">Shows</a> 
-			<a class="" href="/bios.php">Bios</a> 
-			<a class="" href="/news.php">News</a> 
-			<a class="" href="/guestbook.php">Guestbook</a> 
-			<a class="" href="/discography.php">Discography</a> 
-			<a class="" href="/faqs.php">FAQs</a> 
-			<a class="active" href="/contact.php">Contact</a> 
-		</div>
+		<?php include "./components/nav.php"; ?>
 
 		<div class="text-center">
 			<h1>Contact</h1>
