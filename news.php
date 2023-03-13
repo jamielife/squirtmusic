@@ -1,14 +1,6 @@
 <html>
 	<head>
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15392232-7"></script>
-		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-15392232-7');
-		</script>		
+		<?php include "./components/ga.php"; ?>		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>News | Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
