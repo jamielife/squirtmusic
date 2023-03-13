@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<?php include "./components/ga.php"; ?>
+		<?php include "./components/ga.php"; error_reporting(E_ALL); ini_set('display_errors', 1); ?>
 		<?php echo $_SERVER['PHP_SELF']; ?>		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Faqs | Official Squirt Site!</title>
