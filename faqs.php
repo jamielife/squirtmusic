@@ -1,7 +1,6 @@
 <html>
 	<head>
 		<?php include "./components/ga.php"; ?>
-		<?php echo $_SERVER['PHP_SELF']; ?>		
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Faqs | Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
