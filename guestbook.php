@@ -1,5 +1,6 @@
 <html>
     <head>
+        <?php include "./components/ga.php"; ?>        
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Guestbook | Official Squirt Site!</title>
 		<link rel="icon" href="/images/favicon.png" type="image/x-icon">		
@@ -14,7 +15,6 @@
         <meta name="Description" content="Guestbooks were a thing that people filled out and left messages for Squirt circa the year 2000.">
     </head>
     <body>
-
         <a href="/"><img src="/images/logo.jpg" width=""></a>
 
         <div id="primary-navigation" class="text-right">
@@ -804,17 +804,6 @@
                                                 </tr>
                                             </tbody>
                                         </table>
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
 
                                     </td>
                                 </tr>
