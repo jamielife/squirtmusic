@@ -1,4 +1,4 @@
-ARG VERSION=8.0.8-fpm-alpine3.18-nginx-1.21.1
+ARG VERSION=8.3.0-fpm-alpine3.17-nginx-1.24.0
 FROM dwchiang/nginx-php-fpm:${VERSION}
 
 ARG VERSION_PHP_MINOR
