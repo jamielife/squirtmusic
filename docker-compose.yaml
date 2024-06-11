@@ -10,7 +10,7 @@ services:
         - ./src:/var/www/html
     # nginx
     nginx:
-      image: 1.26.1-alpine
+      image: nginx:1.26.1-alpine
       container_name: squirtmusic-nginx
       restart: always
       ports:
