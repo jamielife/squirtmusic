@@ -1,8 +1,6 @@
 ARG VERSION=8.0.8-fpm-alpine3.18-nginx-1.21.1
 FROM dwchiang/nginx-php-fpm:${VERSION}
 
-LABEL maintainer="Ernest Chiang <me@ernestchiang.com>"
-
 ARG VERSION_PHP_MINOR
 ARG VERSION_OS
 ENV VERSION_OS=${VERSION_OS}
