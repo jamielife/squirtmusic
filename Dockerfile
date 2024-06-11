@@ -1,5 +1,5 @@
 ARG VERSION=8.3.0-fpm-alpine3.17-nginx-1.24.0
-FROM dwchiang/nginx-php-fpm:${VERSION}
+FROM dwchiang/nginx-php-fpm:${VERSION} as base
 
 ARG VERSION_PHP_MINOR
 ARG VERSION_OS
@@ -41,5 +41,9 @@ RUN set -x && \
     touch /var/log/cron.log && \
     chown -R www-data:www-data /usr/share/nginx/html && \
     chown -R www-data:www-data /var/www/html
+
+FROM base AS builder
+RUN echo -e "\e[1;33mENVIRONMENT VARIABLES\e[0m"
+RUN env
 
 CMD ["/docker-entrypoint.sh"]
