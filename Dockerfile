@@ -1,51 +1,102 @@
-ARG VERSION=8.3.0-fpm-alpine3.17-nginx-1.24.0
-FROM dwchiang/nginx-php-fpm:${VERSION} as base
 
-ARG VERSION_PHP_MINOR
-ARG VERSION_OS
-ENV VERSION_OS=${VERSION_OS}
+# Patched PHP 8.3 runtime with Alpine Linux
+FROM php:8.3.36-fpm-alpine3.24
 
-### ----------------------------------------------------------
-### Library and PHP Packges
-### ----------------------------------------------------------
+# ----------------------------------------------------------
+# Install Nginx, Supervisor, and PHP dependencies
+# ----------------------------------------------------------
+RUN set -eux; \
+    apk add --no-cache \
+        nginx \
+        supervisor \
+        fcgi \
+        libzip-dev \
+        icu-dev \
+        oniguruma-dev; \
+    docker-php-ext-install \
+        pdo_mysql \
+        mysqli \
+        zip \
+        intl; \
+    mkdir -p \
+        /run/nginx \
+        /var/www/html \
+        /var/log/supervisor \
+        /etc/nginx/conf.d; \
+    rm -f /etc/nginx/http.d/default.conf
 
-RUN set -x && \
-    # php configurations
-    mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini" && \
-    # Memory, Time, Size Limits
-    #   You can limit these at your orchestration layer.
-    echo "memory_limit=1028M" > $PHP_INI_DIR/conf.d/memory-limit.ini && \
-    echo "max_execution_time=900" >> $PHP_INI_DIR/conf.d/memory-limit.ini && \
-    echo "post_max_size=2M" >> $PHP_INI_DIR/conf.d/memory-limit.ini && \
-    echo "upload_max_filesize=2M" >> $PHP_INI_DIR/conf.d/memory-limit.ini && \
-    # Time Zone
-    echo "date.timezone=${PHP_TIMEZONE:-UTC}" > $PHP_INI_DIR/conf.d/date_timezone.ini && \
-    # Display errors in stderr
-    echo "display_errors=stderr" > $PHP_INI_DIR/conf.d/display-errors.ini && \
-    # Disable PathInfo
-    echo "cgi.fix_pathinfo=0" > $PHP_INI_DIR/conf.d/path-info.ini && \
-    # Disable expose PHP
-    echo "expose_php=0" > $PHP_INI_DIR/conf.d/path-info.ini && \
-    # clean up
-    apk del --no-network && \
-    rm -rf /var/cache/apk/* && \
-    rm -rf /usr/share/nginx/html/*
+# ----------------------------------------------------------
+# PHP configuration
+# ----------------------------------------------------------
+RUN set -eux; \
+    mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"; \
+    { \
+        echo "memory_limit=1028M"; \
+        echo "max_execution_time=900"; \
+        echo "post_max_size=2M"; \
+        echo "upload_max_filesize=2M"; \
+        echo "date.timezone=UTC"; \
+        echo "display_errors=stderr"; \
+        echo "cgi.fix_pathinfo=0"; \
+        echo "expose_php=0"; \
+        echo "session.upload_progress.enabled=0"; \
+    } > "$PHP_INI_DIR/conf.d/squirtmusic.ini"
 
-### ----------------------------------------------------------
-### Load our app
-### ----------------------------------------------------------
+# ----------------------------------------------------------
+# Nginx configuration
+# ----------------------------------------------------------
+COPY ./nginx/conf.d/default.conf /etc/nginx/http.d/default.conf
 
-COPY ./nginx/conf.d/default.conf /etc/nginx/conf.d/default.conf
+# Use a TCP upstream to match PHP-FPM's default listener.
+# Your existing nginx config should use:
+# fastcgi_pass 127.0.0.1:9000;
 
-COPY src /var/www/html
+# ----------------------------------------------------------
+# Load application
+# ----------------------------------------------------------
+WORKDIR /var/www/html
 
-RUN set -x && \
-    touch /var/log/cron.log && \
-    chown -R www-data:www-data /usr/share/nginx/html && \
-    chown -R www-data:www-data /var/www/html
+COPY --chown=www-data:www-data src/ /var/www/html/
 
-FROM base AS builder
-RUN echo -e "\e[1;33mENVIRONMENT VARIABLES\e[0m"
-RUN env
+RUN set -eux; \
+    touch /var/log/cron.log; \
+    chown -R www-data:www-data /var/www/html; \
+    chmod -R u=rwX,g=rX,o=rX /var/www/html
 
-CMD ["/docker-entrypoint.sh"]
+# ----------------------------------------------------------
+# Supervisor: run PHP-FPM and Nginx together
+# ----------------------------------------------------------
+RUN mkdir -p /etc/supervisor.d && \
+    printf '%s\n' \
+        '[supervisord]' \
+        'nodaemon=true' \
+        'logfile=/dev/null' \
+        'logfile_maxbytes=0' \
+        '' \
+        '[program:php-fpm]' \
+        'command=/usr/local/sbin/php-fpm -F' \
+        'autostart=true' \
+        'autorestart=true' \
+        'priority=10' \
+        'stdout_logfile=/dev/fd/1' \
+        'stdout_logfile_maxbytes=0' \
+        'stderr_logfile=/dev/fd/2' \
+        'stderr_logfile_maxbytes=0' \
+        '' \
+        '[program:nginx]' \
+        'command=/usr/sbin/nginx -g "daemon off;"' \
+        'autostart=true' \
+        'autorestart=true' \
+        'priority=20' \
+        'stdout_logfile=/dev/fd/1' \
+        'stdout_logfile_maxbytes=0' \
+        'stderr_logfile=/dev/fd/2' \
+        'stderr_logfile_maxbytes=0' \
+        > /etc/supervisord.conf
+
+# ----------------------------------------------------------
+# Startup
+# ----------------------------------------------------------
+EXPOSE 80
+
+CMD ["/usr/bin/supervisord", "-c", "/etc/supervisord.conf"]
